@@ -1,0 +1,3 @@
+/Users/user/Documents/seminar/test1/corehard/build/CMakeFiles/rebuild_cache.dir
+/Users/user/Documents/seminar/test1/corehard/build/CMakeFiles/edit_cache.dir
+/Users/user/Documents/seminar/test1/corehard/build/CMakeFiles/hello.dir
