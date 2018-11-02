@@ -1,6 +1,6 @@
 #include <iostream>
 
-int main()
-{
-	std::cout << "Hello, world!" << std::endl;
-}
+using std::cout;
+using std::endl;
+
+int main() { cout << "Hello, corehard!" << endl; }
